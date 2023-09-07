@@ -9,7 +9,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I AM A PROFESSIONAL GAME DEVELOPER</p>
+        <p>I AM A STUDENT FROM UNIVERSITY OF THE ASSUMPTION</p>
         <p>I&#39;m Kervin Amiel Josh K. Canlas, but you can call me &quot;Joro.&quot; I enjoy playing online games with my
 friends, and I really like the song &quot;And&quot; by Eden, even though not many people know about it. My top
 foods are Shawarma and Pineapple Pizza. I don&#39;t have a lot of social events, but what I love is the fun we
