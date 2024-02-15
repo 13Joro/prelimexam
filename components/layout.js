@@ -4,8 +4,8 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'KERVIN AMIEL JOSH K. CANLAS';
-export const siteTitle = 'Next.js Sample Website';
+const name = 'Kervin Amiel Josh K. Canlas';
+export const siteTitle = 'No Talent Required';
 
 export default function Layout({ children, home }) {
   return (
